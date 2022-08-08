@@ -1,0 +1,87 @@
+body{
+    text-align: center;
+}
+#vijay {
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+}
+.img-responsive {
+    text-align: center;
+}
+#abc {
+     text-align: center;
+}
+#marqueeStyle {
+    
+    font-size: 20px;
+    font-style: oblique;
+    width: 100%;
+    margin-top: 20px;
+    height: 35px;
+    text-decoration-color: brown;
+
+}
+.announcment {
+    background-color: aqua
+}
+#boot {
+    height: 150px;
+    width: 210px;
+}
+#bot {
+    font-size: 30px;    
+}
+#home {
+    border-style: solid;
+    border-radius: 30px;
+    padding: 10px;
+    margin-top: 20px;
+}
+#funn {
+    margin-top: 25px;
+    margin-left: 100px;
+    text-align: center;
+}
+#description {
+    text-align: center;
+}
+#er {
+   margin-left: 100px;
+}
+#src6 {
+  height: 120px;
+  width: 110px;
+  border-width: medium;    
+}
+hr {
+    border-width: thick;
+}
+p {
+    font-size: 20px;
+    border-style: double;
+    border-width: thick;
+}
+#sub {
+    font-feature-settings: underline;
+}
+#yt {
+    height: 50px;
+    width: 50px;
+}
+#subf {
+    border-style: dashed;
+    border-width: thick;
+}
+#subg {
+    border-style: groove;
+    border-width: thick;
+}
+#subs {
+    border-style: ridge;
+    border-width: thick;
+}
+#g {
+    margin-left: 50%;
+    text-align: center;
+}
